@@ -1,0 +1,17 @@
+.DS_Store
+*.pdf
+*.docx
+*.doc
+*.png
+*.jpg
+*.jpeg
+*.heic
+.env
+.token
+*.pem
+Passeport*
+Scan*
+BAC.pdf
+DTS.pdf
+CV_*.pdf
+CV_*.docx
